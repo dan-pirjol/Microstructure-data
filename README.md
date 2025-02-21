@@ -1,2 +1,2 @@
 # Microstructure-data
-Technical notes about formatting microstructure data
+Technical note about formatting microstructure data and datasets.
